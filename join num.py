@@ -1,0 +1,5 @@
+a=int(input('Enter the number '))
+b=int(input('Enter the number '))
+c=str(a)
+d=str(b)
+print(str(a)+str(b))

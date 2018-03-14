@@ -1,0 +1,2 @@
+str="sreemathy"
+print(str)

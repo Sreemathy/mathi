@@ -1,3 +1,4 @@
-s=input("enter a string")
-n='answer'
-print(s+n)
+a=list(input())
+a.append(' answer')
+print("".join(a))
+ 

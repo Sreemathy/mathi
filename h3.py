@@ -9,5 +9,7 @@ for i in l:
   if(a==i):
     print(i)
     s.append(i)
-print("".join(str(i) for i in s))
-    
+    print("".join(str(i) for i in s)) 
+  else:
+    print('-1')
+      

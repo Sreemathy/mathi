@@ -5,4 +5,4 @@ for i in range(0,n):
   a=int(input())
   l.append(a)
   l.sort()
-print(l[k])
+print(l[k-1])
